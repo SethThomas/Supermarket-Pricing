@@ -43,10 +43,10 @@ Next, create the products database by typing
 
 This project was developed using Cucumber and Rspec.
 
-To run the [Cucmber](http://cukes.info) tests, type
+To run the [Cucumber](http://cukes.info) tests, type
 
     cucumber
 
-To run the Rspec unit tests, type
+To run the [Rspec](http://rspec.info/) unit tests, type
 
     rspec spec/<deal class name>_spec.rb
