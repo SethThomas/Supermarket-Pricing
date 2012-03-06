@@ -11,7 +11,7 @@ My Solution
 I used rubys built-in support for the observer pattern to implement this solution.
 
 The Checkout class, which is observable, keeps track of all scanned products and the total price for the scanned items.  Each
-deal is implemented as an observer of the Checkout class.  At checkout, each pricing scheme is asked to apply their particular
+deal is implemented as an observer of the Checkout class.  At checkout, each pricing scheme is asked to apply its particular
 algorithm to the products in the shopping cart, updating the cart contents and total price accordingly.
 
 
