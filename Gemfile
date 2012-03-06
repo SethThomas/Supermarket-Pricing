@@ -1,0 +1,6 @@
+gem 'cucumber'
+gem 'activerecord'
+gem 'database_cleaner'
+gem 'rspec'
+gem 'factory_girl'
+gem 'rspec-mocks'
